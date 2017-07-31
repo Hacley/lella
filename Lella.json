@@ -150,9 +150,7 @@
         "!run": 5
     },
     "emotes": {
-    	"edt": "https://rawgit.com/Satskhi/EDTRCS/master/images/EDT-Logo.png",
         "edtmini": "https://i.imgur.com/9JR4xqX.png",
-    	"edt2": "https://i.imgur.com/DBtr6Tr.png",
     	"chuck": "https://i.imgur.com/nw0CkZA.gif",
         "satskhi": "https://i.imgur.com/bTXR2HA.png",
     	"hatsune": "https://i.imgur.com/7c2rZBi.gif",
