@@ -2,7 +2,7 @@
     "room":                     "Lella.la - Music ♥",
     "author":                   "µLucifer",
     "icon":                     "https://user-images.githubusercontent.com/30579958/28759301-f0e1dc80-7571-11e7-8640-04c8c092d4ae.png",
-    "css":                      "https://rawgit.com/Hacley/lella/master/Lellaplu.css",
+    "css":                      "https://rawgit.com/Hacley/lella/master/Hacley.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
