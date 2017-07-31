@@ -1,6 +1,6 @@
 {
     "room": "Lella.la - Music ♥",
-    "author": "Hacley, AllanCrazzy, Lucifer",
+    "author": "Hacley",
     "icon": "http://i.imgur.com/19WS9hp.png",
     "css": "https://rawgit.com/Satskhi/EDTRCS/master/EDT.css",
     "rules": {
@@ -16,10 +16,10 @@
     "ccc": {
         "admin": null,
         "ambassador": "#FF8C00",
-        "host": "#208b7c",
-        "cohost": "#208b7c",
-        "manager": "#53b2a8",
-        "bouncer": "#53b2a8",
+        "host": "#228B22",
+        "cohost": "#228B22",
+        "manager": "#68B354",
+        "bouncer": "#68B354",
         "rdj": "#68B354",
         "subscriber": null,
         "silversubscriber": null,
@@ -27,8 +27,8 @@
         "user": null
     },
     "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/10.png",
-        "playback": null
+        "background": "https://rawgit.com/Satskhi/EDTRCS/master/images/EDT-Background.jpg",
+        "playback": "https://rawgit.com/Satskhi/EDTRCS/master/images/PlaybackEDT2.0.png",
         "admin": null,
         "ambassador": "https://rawgit.com/Satskhi/EDTRCS/master/images/BA.png",
         "host": "https://rawgit.com/Satskhi/EDTRCS/master/images/Host-Co-Host.png",
@@ -150,6 +150,9 @@
         "!run": 5
     },
     "emotes": {
+    	"edt": "https://rawgit.com/Satskhi/EDTRCS/master/images/EDT-Logo.png",
+        "edtmini": "https://i.imgur.com/9JR4xqX.png",
+    	"edt2": "https://i.imgur.com/DBtr6Tr.png",
     	"chuck": "https://i.imgur.com/nw0CkZA.gif",
         "satskhi": "https://i.imgur.com/bTXR2HA.png",
     	"hatsune": "https://i.imgur.com/7c2rZBi.gif",
