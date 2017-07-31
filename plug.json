@@ -1,7 +1,7 @@
 {
     "room": "Lella.la - Music ♥",
     "author": "Hacley",
-    "icon": "http://i.imgur.com/19WS9hp.png",
+    "icon": "http://4.bp.blogspot.com/-LqRzMgljE5s/WX55_9KUt7I/AAAAAAAAAIc/5YKIyJVN2xkK2fvXNuUYKm2y9HxtlvOHQCK4BGAYYCw/s1600/19WS9hp.png",
     "css": "https://rawgit.com/Satskhi/EDTRCS/master/EDT.css",
     "rules": {
         "allowAutorespond": true,
@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "https://rawgit.com/Satskhi/EDTRCS/master/images/EDT-Background.jpg",
-        "playback": "https://rawgit.com/Satskhi/EDTRCS/master/images/PlaybackEDT2.0.png",
+        "playback": null,
         "admin": null,
         "ambassador": "https://rawgit.com/Satskhi/EDTRCS/master/images/BA.png",
         "host": "https://rawgit.com/Satskhi/EDTRCS/master/images/Host-Co-Host.png",
