@@ -27,7 +27,7 @@ html {
     display: block;
     width: 75px; height: 30px;
 
-    background: url('https://user-images.githubusercontent.com/30579958/28759301-f0e1dc80-7571-11e7-8640-04c8c092d4ae.png') center center / 75px no-repeat;
+    background: url('https://user-images.githubusercontent.com/30579958/35783838-8f2aec7a-09f5-11e8-9ba0-91b800a09ccc.png') center center / 75px no-repeat;
 }
 #room-name, #room-host {
     left: 89px !important;
