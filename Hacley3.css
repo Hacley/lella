@@ -931,33 +931,33 @@ i.icon.icon-time {
 }
 /* Co-hosts */
 #user-lists .group.host ~ .user span {
-    color: #27A427;
+    color: #daa520;
 }
 /* Managers */
 #user-lists .group.manager {
-    color: #68B354;
+    color: #d19d1d;
     background: linear-gradient(to right, hsla(107,38%,40%,.5), hsla(107,38%,30%,.5)) !important;
 }
 #user-lists .group.manager ~ .user span {
-    color: #68B354;
+    color: #d19d1d;
 }
 /* Bouncers */
 #user-lists .group.bouncer {
-    color: #68B354;
+    color: #d19d1d;
     background: linear-gradient(to right, hsla(107,38%,40%,.5), hsla(107,38%,30%,.5)) !important;
 }
 #user-lists .group.bouncer ~ .user span,
 .is-bouncer .name {
-    color: #68B354;
+    color: #d19d1d;
 }
 /* DJs */
 #user-lists .group.dj {
-    color: #68B354;
+    color: #d19d1d;
     background: linear-gradient(to right, hsla(107,38%,40%,.5), hsla(107,38%,30%,.5)) !important;
 }
 #user-lists .group.dj ~ .user span,
 .is-dj .name, .is-staff .name { /* **Kind of** an rcs fix for subs on user-list */
-    color: #68B354;
+    color: #d19d1d;
 }
 /* Gold sub */
 #user-lists .icon-chat-subscriber + :not(.is-staff) span {
