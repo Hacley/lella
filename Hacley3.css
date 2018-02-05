@@ -384,7 +384,7 @@ i.icon.icon-time {
 #playlist-activate-button.active,
 #history-button.selected,
 #playlist-import-panel .button:hover {
-    background: linear-gradient(#36a43d, #2b8332) !important;
+    background: linear-gradient(#daa520, #d19d1d) !important;
 }
 #playlist-activate-button i {
     filter: brightness(3) saturate(0);
